@@ -1,5 +1,8 @@
 # Amateur Radio - Random Wire Length Tool
 
+This is a direct port of the code found here http://udel.edu/~mm/ham/randomWire/ but with it being written in C and matlab, I found it quite restrictive to use. So I decided to port it to JavaScript (ES6), so that it's much easier to run (imo).
+Feel free to comment and tweak away to your hearts content!
+
 ## Prerequisites
 
 - Please ensure you have both the prerequisites installed:
